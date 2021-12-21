@@ -44,3 +44,14 @@ alt_txt
 ## Conclusion
 
 Here I have tried to create a static website as a bio for my own purpose. As mentioned hosted in Github pages and the domain purchased from Hostinger, which makes the whole process much simpler and easy to handle.
+
+
+
+
+
+### ⚙️ Connect with Me
+
+<p align="center">
+<a href="mailto:ajishantony95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ajish-antony/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
