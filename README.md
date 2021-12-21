@@ -32,7 +32,7 @@ Here I have created an official website for my domain "www.ajishantony.tech".It'
 
 ## Output
 
-- Complete Screenshot is shown below
+- Complete screenshot is shown below
 
 ![
 alt_txt
