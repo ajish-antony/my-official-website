@@ -33,6 +33,7 @@ Here I have created an official website for my domain "www.ajishantony.tech".It'
 ## Output
 
 - Complete Screenshot is shown below
+
 ![
 alt_txt
 ](https://i.ibb.co/XZPQHq4/ajishantony-tech.png)
