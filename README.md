@@ -39,7 +39,7 @@ Here I have created an official website for my domain "www.ajishantony.tech". It
 alt_txt
 ](https://i.ibb.co/XZPQHq4/ajishantony-tech.png)
 
-> URL for the domain - [ajishantony.tech](https://ajishantony.tech)
+> URL for the domain - [ajishantony.tech](https://ajishantony.online)
 
 ## Conclusion
 
